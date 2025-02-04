@@ -1,16 +1,12 @@
-# Topics in Software Engineering
+# EventLink  
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+## Project by  
+**Ahmed Hamouda** and Team  
 
-# Tools
-The tools that are installed with this devcontainer are:
+## Problem Description:
+People often struggle to find relevant local events or coordinate meetups with friends. Existing event platforms can be cluttered, filled with irrelevant content, or lack proper organization for small group planning. EventLink simplifies event discovery and planning by allowing users to find local events, create private or public gatherings, and seamlessly coordinate logistics with friends.
 
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
-
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+## Primary Users:
+- **College Students** – Finding campus events, study groups, and social gatherings.  
+- **Young Professionals** – Connecting with industry networking events and social meetups.  
+- **Community Organizers** – Managing event promotions, RSVPs, and communication.  
